@@ -1,32 +1,25 @@
 # 👋 Hi, I'm Tuấn
 
-🎯 **Software Developer | Problem Solver | Tech Enthusiast**
+🎯 **Cybersecurity | programmer**
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate software developer with a strong interest in building efficient, scalable, and user-friendly applications.  
-I enjoy learning new technologies, contributing to open-source projects, and tackling real-world problems through clean and elegant code.
+I'm a student majoring in information security at Hanoi University of Civil Engineering.
 
-- 💼 Currently open to new opportunities
-- 🎓 Background in Computer Science / Engineering
-- 💡 Interested in: Web Development, AI/ML, and Automation
+- 🎓 Still learning about cybersecurity.
+- 💡 Interested in: Web Development, AI, Cybersecurity, information security, learning new technologies.
 - 🌍 Based in Vietnam
-- 💬 Ask me about anything related to JavaScript, Python, or React
-
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`JavaScript` `Python` `C++` `HTML` `CSS`
-
-**Frameworks & Libraries:**  
-`React` `Node.js` `Express` `TailwindCSS`
+`Python` `C++`
 
 **Tools & Platforms:**  
-`Git` `GitHub` `VS Code` `Postman` `Docker`
+`Git` `GitHub` `VS Code`
 
 ---
 
@@ -34,18 +27,10 @@ I enjoy learning new technologies, contributing to open-source projects, and tac
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [📘 Portfolio Website](https://github.com/yourusername/portfolio) | Personal portfolio showcasing my projects and skills | React, TailwindCSS |
-| [⚙️ Task Manager API](https://github.com/yourusername/task-manager) | RESTful API for managing tasks and users | Node.js, Express, MongoDB |
-| [🤖 AI Chatbot](https://github.com/yourusername/ai-chatbot) | Simple AI chatbot powered by OpenAI API | Python, Flask |
-
+| [📘Website]() | Personal portfolio showcasing my projects and skills | React, TailwindCSS |
 ---
 
 ## 📫 Contact Me
 
-- 📧 **Email:** tuan.nguyen@example.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tuan-nguyen](https://linkedin.com/in/tuan-nguyen)  
-- 🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)
-
----
-
-⭐ *"Code is like humor. When you have to explain it, it’s bad."* 
+- 📧 **Email:** tunbom056@gmail.com
+- 🐙 **GitHub:** [github.com/NguyenLeAnhTuan07](https://github.com/NguyenLeAnhTuan07)
