@@ -27,7 +27,7 @@ I'm a student majoring in information security at Hanoi University of Civil Engi
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [📘Website]() | Personal portfolio showcasing my projects and skills | React, TailwindCSS |
+| [📘Website](https://nguyenleanhtuan07.github.io) | Personal portfolio showcasing my projects and skills | React, TailwindCSS |
 ---
 
 ## 📫 Contact Me
