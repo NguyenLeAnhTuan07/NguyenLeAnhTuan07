@@ -1,22 +1,30 @@
 # 👋 Hi, I'm Tuấn
 
-🎯 **Cybersecurity | programmer**
+🎯 **Cybersecurity | programmer  | Information Security
+
+🎓 Currently expanding my knowledge in cybersecurity.
+
+💡 Passionate about web development, AI, and exploring new technologies related to information security.
+
+🌍 Based in Vietnam.**
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a student majoring in information security at Hanoi University of Civil Engineering.
+I'm a student majoring in Information Security at Hanoi University of Civil Engineering.
 
-- 🎓 Still learning about cybersecurity.
-- 💡 Interested in: Web Development, AI, Cybersecurity, information security, learning new technologies.
-- 🌍 Based in Vietnam
+🎓 Currently expanding my knowledge in cybersecurity.
+
+💡 Passionate about web development, AI, and exploring new technologies related to information security.
+
+🌍 Based in Vietnam.
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `C++`
+`Python` `C++` `HTML`
 
 **Tools & Platforms:**  
 `Git` `GitHub` `VS Code`
@@ -27,7 +35,7 @@ I'm a student majoring in information security at Hanoi University of Civil Engi
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [📘Website](https://nguyenleanhtuan07.github.io) | Personal portfolio showcasing my projects and skills | GitHub, I'm Tuấn
+| [📘Website](https://nguyenleanhtuan07.github.io) | Personal portfolio showcasing my projects and skills | GitHub
 
 ---
 
