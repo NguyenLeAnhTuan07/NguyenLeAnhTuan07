@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Tuấn
 
-🎯 **Cybersecurity | programmer  | Information Security
+🎯 Cybersecurity | programmer  | Information Security
 
 🎓 Currently expanding my knowledge in cybersecurity.
 
 💡 Passionate about web development, AI, and exploring new technologies related to information security.
 
-🌍 Based in Vietnam.**
+🌍 Based in Vietnam.
 
 ---
 
