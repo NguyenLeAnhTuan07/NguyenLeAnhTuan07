@@ -36,6 +36,8 @@ I'm a student majoring in Information Security at Hanoi University of Civil Engi
 | Project | Description | Tech |
 |----------|--------------|------|
 | [📘Website](https://nguyenleanhtuan07.github.io) | Personal portfolio showcasing my projects and skills | GitHub
+| [Data Encryption Standard](https://github.com/NguyenLeAnhTuan07/des-for-learning) | Educational Python implementation of the DES algorithm for learning and experimentation only | Github
+| [Ed-DSA-Signature](https://github.com/NguyenLeAnhTuan07/ib-eddsa-signature) | Educational implementation of an Identity-Based EdDSA digital signature scheme for learning purposes | GitHub
 
 ---
 
