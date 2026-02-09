@@ -37,7 +37,8 @@ I'm a student majoring in Information Security at Hanoi University of Civil Engi
 |----------|--------------|------|
 | [📘Website](https://nguyenleanhtuan07.github.io) | Personal portfolio showcasing my projects and skills | GitHub
 | [Data Encryption Standard](https://github.com/NguyenLeAnhTuan07/des-for-learning) | Educational Python implementation of the DES algorithm for learning and experimentation only | Github
-| [Ed-DSA-Signature](https://github.com/NguyenLeAnhTuan07/ib-eddsa-signature) | Educational implementation of an Identity-Based EdDSA digital signature scheme for learning purposes | GitHub
+| [Ed-DSA Signature](https://github.com/NguyenLeAnhTuan07/ib-eddsa-signature) | Educational implementation of an Identity-Based EdDSA digital signature scheme for learning purposes | GitHub
+| [Linear regression model]([https://github.com/NguyenLeAnhTuan07/ib-eddsa-signature](https://github.com/NguyenLeAnhTuan07/linear-regression-model) | A from-scratch implementation of Linear Regression in Python without using machine learning libraries. | GitHub
 
 ---
 
