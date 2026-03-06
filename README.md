@@ -92,22 +92,6 @@ current_work = [
 long_term_goal = "Advanced research in cryptography & AI-driven security systems"
 ```
 
----
-
-## `> top --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenLeAnhTuan07&show_icons=true&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8&hide_border=false&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenLeAnhTuan07&layout=compact&theme=dark&bg_color=0f172a&border_color=1e293b&title_color=3b82f6&text_color=94a3b8&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=NguyenLeAnhTuan07&theme=dark&background=0f172a&border=1e293b&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff)
-
-</div>
-
----
-
 <div align="center">
 
 *"Build from first principles. Understand from the ground up."*
