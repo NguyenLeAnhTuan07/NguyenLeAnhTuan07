@@ -1,13 +1,5 @@
 <div align="center">
 
-```
- ██╗    ██╗██╗  ██╗ ██████╗     ██╗  ██╗███╗   ██╗ ██████╗ ██╗    ██╗██████╗
- ██║    ██║██║  ██║██╔═══██╗    ██║ ██╔╝████╗  ██║██╔═══██╗██║    ██║╚════██╗
- ██║ █╗ ██║███████║██║   ██║    █████╔╝ ██╔██╗ ██║██║   ██║██║ █╗ ██║  ▄███╔╝
- ██║███╗██║██╔══██║██║   ██║    ██╔═██╗ ██║╚██╗██║██║   ██║██║███╗██║  ▀▀══╝
- ╚███╔███╔╝██║  ██║╚██████╔╝    ██║  ██╗██║ ╚████║╚██████╔╝╚███╔███╔╝  ██╗
-  ╚══╝╚══╝ ╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝   ╚═╝
-```
 
 # Nguyễn Lê Anh Tuấn
 
@@ -91,6 +83,26 @@ current_work = [
 
 long_term_goal = "Advanced research in cryptography & AI-driven security systems"
 ```
+
+---
+
+## `> top --stats`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenLeAnhTuan07&bg_color=0f172a&color=3b82f6&line=3b82f6&point=ffffff&area=true&area_color=1e3a5f&border_color=1e293b&hide_border=false&custom_title=Contribution+Activity)
+
+</div>
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  github.com/NguyenLeAnhTuan07  ·  tunbom056@gmail.com        │
+│  Hanoi, Vietnam  ·  Information Security                     │
+│  Focus: Cryptography · Digital Signatures · AI × Security    │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
 
 <div align="center">
 
