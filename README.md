@@ -71,15 +71,21 @@ protocols, and architectural decisions behind modern security and AI technologie
 | 02 | [**SHA Family From Scratch**](https://github.com/NguyenLeAnhTuan07/sha-family-from-scratch) | SHA-1/SHA-2 hash functions implemented from scratch — bitwise ops, compression | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
 | 03 | [**Ed-DSA Signature**](https://github.com/NguyenLeAnhTuan07/ib-eddsa-signature) | Identity-based EdDSA — elliptic curve operations from scratch | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
 | 04 | [**Python OTP Demo**](https://github.com/NguyenLeAnhTuan07/python-otp-demo) | HOTP & TOTP authentication — RFC 4226 / RFC 6238 compliant | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
-| 05 | [**LexFlow**](https://github.com/NguyenLeAnhTuan07/LexFlow) | Lexical analysis & tokenization engine — compiler/security tooling foundations | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
 
 **// AI & Machine Learning**
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 06 | [**Linear Regression Model**](https://github.com/NguyenLeAnhTuan07/linear-regression-model) | Pure from-scratch linear regression — gradient descent, no ML libraries | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
-| 07 | [**Logistic Regression Model**](https://github.com/NguyenLeAnhTuan07/logistic-regression-model) | From-scratch logistic regression — sigmoid, binary cross-entropy, backprop | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
-| 08 | [**AI Data Collection System**](https://github.com/NguyenLeAnhTuan07/ai-data-collection-system) | Automated pipeline for structured image dataset acquisition | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 05 | [**Linear Regression Model**](https://github.com/NguyenLeAnhTuan07/linear-regression-model) | Pure from-scratch linear regression — gradient descent, no ML libraries | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 06 | [**Logistic Regression Model**](https://github.com/NguyenLeAnhTuan07/logistic-regression-model) | From-scratch logistic regression — sigmoid, binary cross-entropy, backprop | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 07 | [**AI Data Collection System**](https://github.com/NguyenLeAnhTuan07/ai-data-collection-system) | Automated pipeline for structured image dataset acquisition | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+
+**// Tools & Applications**
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 08 | [**LexFlow**](https://github.com/NguyenLeAnhTuan07/LexFlow) | English vocabulary learning app — flashcard system, A/B/C/D quizzes, custom word & question management | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 09 | [**Portfolio Website**](https://nguyenleanhtuan07.github.io) | Personal portfolio — technical overview & project showcase | ![HTML](https://img.shields.io/badge/HTML-3b82f6?style=flat-square&logo=html5&logoColor=white) |
 
 ---
 
