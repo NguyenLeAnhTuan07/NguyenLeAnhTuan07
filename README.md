@@ -1,14 +1,13 @@
 <div align="center">
 
-
 # Nguyễn Lê Anh Tuấn
 
 **Information Security Student · Cryptography · AI-Security**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenleanhtuan07.github.io-0f172a?style=flat-square&logo=github&logoColor=white)](https://nguyenleanhtuan07.github.io)
-[![Email](https://img.shields.io/badge/Email-tunbom056@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:tunbom056@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-NguyenLeAnhTuan07-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/NguyenLeAnhTuan07)
-[![Location](https://img.shields.io/badge/📍-Hanoi,_Vietnam-0f172a?style=flat-square)](https://github.com/NguyenLeAnhTuan07)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nguyenleanhtuan07.github.io-0f172a?style=flat-square&logo=github&logoColor=3b82f6)](https://nguyenleanhtuan07.github.io)
+[![Email](https://img.shields.io/badge/Email-tunbom056@gmail.com-0f172a?style=flat-square&logo=gmail&logoColor=3b82f6)](mailto:tunbom056@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-NguyenLeAnhTuan07-0f172a?style=flat-square&logo=github&logoColor=3b82f6)](https://github.com/NguyenLeAnhTuan07)
+[![Location](https://img.shields.io/badge/Hanoi,_Vietnam-0f172a?style=flat-square&logo=googlemaps&logoColor=3b82f6)](https://github.com/NguyenLeAnhTuan07)
 
 </div>
 
@@ -17,13 +16,16 @@
 ## `> whoami`
 
 ```
-Student @ Hanoi University of Civil Engineering — Information Security
-Approach: Implementation-driven learning from first principles
-Focus:    Cryptographic primitives · Digital signatures · AI × Security
-Goal:     Advanced research in cryptography & AI-driven security systems
+user@github:~$ id
+uid=NguyenLeAnhTuan07  groups=infosec,cryptography,ai-security
+
+Student  :  Hanoi University of Civil Engineering — Information Security
+Approach :  Implementation-driven learning from first principles
+Focus    :  Cryptographic primitives · Digital signatures · AI × Security
+Goal     :  Advanced research in cryptography & AI-driven security systems
 ```
 
-I build systems from scratch to deeply understand the underlying mathematics,  
+I build systems from scratch to deeply understand the underlying mathematics,
 protocols, and architectural decisions behind modern security and AI technologies.
 
 ---
@@ -31,12 +33,12 @@ protocols, and architectural decisions behind modern security and AI technologie
 ## `> cat research_interests.txt`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [01]  Applied Cryptography                                  │
-│  [02]  Authentication & Secure Protocols                     │
-│  [03]  AI Security & Adversarial Robustness                  │
-│  [04]  Secure System Architecture                            │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  [01]  Applied Cryptography                                   │
+│  [02]  Authentication & Secure Protocols                      │
+│  [03]  AI Security & Adversarial Robustness                   │
+│  [04]  Secure System Architecture                             │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -59,15 +61,39 @@ protocols, and architectural decisions behind modern security and AI technologie
 
 ---
 
-## `> ls projects/ --details`
+## `> ls projects/ --sort=category`
+
+**// Cryptography & Security**
 
 | # | Project | Description | Stack |
 |---|---------|-------------|-------|
-| 01 | [**Data Encryption Standard**](https://github.com/NguyenLeAnhTuan07/des-for-learning) | From-scratch Python implementation of DES for educational cryptanalysis | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
-| 02 | [**Ed-DSA Signature**](https://github.com/NguyenLeAnhTuan07/ib-eddsa-signature) | Identity-based EdDSA signature scheme — educational implementation | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
-| 03 | [**Linear Regression Model**](https://github.com/NguyenLeAnhTuan07/linear-regression-model) | Pure from-scratch linear regression without ML libraries | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
-| 04 | [**AI Data Collection System**](https://github.com/NguyenLeAnhTuan07/ai-data-collection-system) | Automated system for structured image dataset acquisition | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
-| 05 | [**Python OTP Demo**](https://github.com/NguyenLeAnhTuan07/python-otp-demo) | Educational implementation of HOTP and TOTP authentication mechanisms | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 01 | [**Data Encryption Standard**](https://github.com/NguyenLeAnhTuan07/des-for-learning) | From-scratch DES — Feistel structure, S-boxes, key schedule | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 02 | [**SHA Family From Scratch**](https://github.com/NguyenLeAnhTuan07/sha-family-from-scratch) | SHA-1/SHA-2 hash functions implemented from scratch — bitwise ops, compression | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 03 | [**Ed-DSA Signature**](https://github.com/NguyenLeAnhTuan07/ib-eddsa-signature) | Identity-based EdDSA — elliptic curve operations from scratch | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 04 | [**Python OTP Demo**](https://github.com/NguyenLeAnhTuan07/python-otp-demo) | HOTP & TOTP authentication — RFC 4226 / RFC 6238 compliant | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 05 | [**LexFlow**](https://github.com/NguyenLeAnhTuan07/LexFlow) | Lexical analysis & tokenization engine — compiler/security tooling foundations | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+
+**// AI & Machine Learning**
+
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 06 | [**Linear Regression Model**](https://github.com/NguyenLeAnhTuan07/linear-regression-model) | Pure from-scratch linear regression — gradient descent, no ML libraries | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 07 | [**Logistic Regression Model**](https://github.com/NguyenLeAnhTuan07/logistic-regression-model) | From-scratch logistic regression — sigmoid, binary cross-entropy, backprop | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+| 08 | [**AI Data Collection System**](https://github.com/NguyenLeAnhTuan07/ai-data-collection-system) | Automated pipeline for structured image dataset acquisition | ![Python](https://img.shields.io/badge/Python-3b82f6?style=flat-square&logoColor=white) |
+
+---
+
+## `> ls certifications/ -v`
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  [✓]  Certified Cybersecurity Educator Professional  (CCEP)          │
+│       Issued by  :  Red Team Leaders                                 │
+│       Verify at  :  redteamleaders.com/exam-completion/888c5ba3f8df  │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+[![CCEP](https://img.shields.io/badge/CCEP-Certified_Cybersecurity_Educator_Professional-3b82f6?style=flat-square&logo=hackthebox&logoColor=white)](https://courses.redteamleaders.com/exam-completion/888c5ba3f8df323e)
 
 ---
 
@@ -86,6 +112,23 @@ long_term_goal = "Advanced research in cryptography & AI-driven security systems
 
 ---
 
+## `> git log --oneline --all`
+
+```
+* [2025]  Earned CCEP certification — Red Team Leaders
+* [2025]  Implemented SHA family hash functions from scratch (SHA-1/SHA-2)
+* [2025]  Built LexFlow — lexical analysis & tokenization engine
+* [2025]  Implemented logistic regression from scratch (sigmoid, cross-entropy)
+* [2025]  Implemented identity-based EdDSA signature scheme
+* [2025]  Built HOTP/TOTP authentication demo (RFC 4226/6238)
+* [2024]  Implemented Data Encryption Standard from scratch
+* [2024]  Built AI data collection & pipeline system
+* [2024]  First ML model — linear regression from first principles
+* [2024]  Started independent study in cryptography & AI security
+```
+
+---
+
 ## `> top --stats`
 
 <div align="center">
@@ -94,20 +137,17 @@ long_term_goal = "Advanced research in cryptography & AI-driven security systems
 
 </div>
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  github.com/NguyenLeAnhTuan07  ·  tunbom056@gmail.com        │
-│  Hanoi, Vietnam  ·  Information Security                     │
-│  Focus: Cryptography · Digital Signatures · AI × Security    │
-└──────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 <div align="center">
 
-*"Build from first principles. Understand from the ground up."*
+```
+┌──────────────────────────────────────────────────────────────┐
+│         "Build from first principles.                        │
+│          Understand from the ground up."                     │
+└──────────────────────────────────────────────────────────────┘
+```
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=NguyenLeAnhTuan07.NguyenLeAnhTuan07)](https://github.com/NguyenLeAnhTuan07)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=NguyenLeAnhTuan07.NguyenLeAnhTuan07&left_color=1e293b&right_color=3b82f6&left_text=visitors)](https://github.com/NguyenLeAnhTuan07)
 
 </div>
