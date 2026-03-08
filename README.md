@@ -115,15 +115,15 @@ long_term_goal = "Advanced research in cryptography & AI-driven security systems
 ## `> git log --oneline --all`
 
 ```
-* [2025]  Earned CCEP certification — Red Team Leaders
 * [2025]  Implemented SHA family hash functions from scratch (SHA-1/SHA-2)
 * [2025]  Built LexFlow — lexical analysis & tokenization engine
 * [2025]  Implemented logistic regression from scratch (sigmoid, cross-entropy)
-* [2025]  Implemented identity-based EdDSA signature scheme
 * [2025]  Built HOTP/TOTP authentication demo (RFC 4226/6238)
-* [2024]  Implemented Data Encryption Standard from scratch
 * [2024]  Built AI data collection & pipeline system
 * [2024]  First ML model — linear regression from first principles
+* [2024]  Implemented identity-based EdDSA signature scheme
+* [2024]  Earned CCEP certification — Red Team Leaders
+* [2024]  Implemented Data Encryption Standard from scratch
 * [2024]  Started independent study in cryptography & AI security
 ```
 
